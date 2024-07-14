@@ -1,2 +1,3 @@
 # Blue-Rose-demo
-This is my firs github repository
+This is my first github repository
+Author- Noor e Hira
